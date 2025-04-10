@@ -1,0 +1,4 @@
+
+Link para descargar la base de datos: 
+https://zenodo.org/records/10519652/files/chestmnist_128.npz?download=1
+
